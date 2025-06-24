@@ -1,2 +1,2 @@
 # Book-Search-Project
-Book-Search-Project is a simple web application that allows users to search for information about books using the Google Books API. Users can search for books by title, author, or ISBN, and view details such as cover, title, author, publication date, and a short description.
+Book Search Project is a simple web application that allows users to search for information about books using the Google Books API. Users can search for books by title, author, or ISBN, and view details such as cover, title, author, publication date, and a short description.
