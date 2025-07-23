@@ -47,13 +47,12 @@ This is a simple **Book Search Web App** that allows users to search for books u
 
 ## 📁 Project Structure
 
-    ```bash
     📁 Book-Search-Project
     ├── index.html
     ├── style.css
     ├── script.js
-    └── icon.png   
-    ```
+    └── icon.png
+
 ---
 
 ## 📌 Notes
