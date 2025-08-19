@@ -6,7 +6,7 @@ This is a simple **Book Search Web App** that allows users to search for books u
 
 ## 🌐 Live Preview
 
-> 🔗 **https://bama2262.github.io/Book-Search-Project/**
+> 🔗 **https://rukadevata.github.io/Book-Search-Project/**
 
 ---
 
@@ -34,7 +34,7 @@ This is a simple **Book Search Web App** that allows users to search for books u
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Bama2262/Book-Search-Project.git
+   git clone https://github.com/Rukadevata/Book-Search-Project.git
    cd Book-Search-Project
 
 2. Open index.html in your browser:
@@ -72,6 +72,6 @@ This is a simple **Book Search Web App** that allows users to search for books u
 
 ## 📬 Contact
 
-For suggestions or feedback, feel free to open an issue or contact me through [GitHub](https://github.com/Bama2262).
+For suggestions or feedback, feel free to open an issue or contact me through [GitHub](https://github.com/Rukadevata).
 
 ---
